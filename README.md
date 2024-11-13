@@ -37,7 +37,7 @@ Follow these steps to set up and deploy the project:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/whoisusmanali/AgriTopShot.git
-   cd crop-disease-detection
+   cd AgriTopShot
    ```
 
 2. **Install Dependencies**:
