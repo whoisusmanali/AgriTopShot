@@ -36,7 +36,7 @@ Follow these steps to set up and deploy the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/crop-disease-detection.git
+   git clone https://github.com/whoisusmanali/AgriTopShot.git
    cd crop-disease-detection
    ```
 
@@ -105,8 +105,3 @@ Feel free to contribute to the project by forking the repository and submitting 
 
 
 <img width="1470" alt="Screenshot 2024-01-06 at 12 44 50 PM" src="https://github.com/whoisusmanali/AgriTopShot/assets/104086680/ed9a21c5-e2bd-47d3-9868-b612ce8ebf7b">
-
-
-<img width="1470" alt="Screenshot 2024-01-06 at 12 43 46 PM" src="https://github.com/whoisusmanali/AgriTopShot/assets/104086680/11261682-0192-4ae1-84c0-b451114686c9">
-
-
